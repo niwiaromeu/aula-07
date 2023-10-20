@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(180, 247, 224);
+  text-align: center;
+}
+
+h1 {
+  color: rgb(155, 9, 9);
+  font-size: 70px;
+}
+
+.KAYLLA {
+  color: rgb(226, 43, 180);
+  font-size: 50px;
+}
+
+.texto {
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: underline;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
